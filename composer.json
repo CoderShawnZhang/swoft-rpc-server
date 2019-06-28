@@ -1,6 +1,7 @@
 {
     "name": "swoft-rewrite/swoft-rpc-server",
     "description": "分布式开发，重写swoft框架之 -- rpc-server 模块",
+    "license":"MIT",
     "authors": [
         {
             "name": "zhanghongbo",
